@@ -1,0 +1,17 @@
+Script started on Tue Oct 18 15:06:46 2016
+odin:1-bit$ ./adder
+Enter binary digit 0: 0
+Enter binary digit 1: 0
+0 + 0 = 0 without a carry
+odin:1-bit$ ./adder
+Enter binary digit 0: 0
+Enter binary digit 1: 1
+0 + 1 = 1 without a carry
+odin:1-bit$ ./adder
+Enter binary digit 0: 1
+Enter binary digit 1: 0
+1 + 0 = 1 without a carry
+odin:1-bit$ ./adder
+Enter binary digit 0: 1
+Enter binary digit 1: 1
+1 + 1 = 0 with a carry
